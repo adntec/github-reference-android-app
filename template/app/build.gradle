@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+    defaultConfig {
+        applicationId "com.envyserve.githubreference"
+        minSdkVersion 14
+        targetSdkVersion 23
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+repositories{
+    flatDir{
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    compile(name:'all-fmmr', ext:'aar')
+    compile files('libs/YouTubeAndroidPlayerApi.jar')
+    compile files('libs/jsoup-1.7.3.jar')
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.google.android.gms:play-services:8.1.0'
+    compile 'com.android.support:appcompat-v7:23.1.0'
+    compile 'com.android.support:recyclerview-v7:23.0.+'
+    compile 'com.google.android.gms:play-services-ads:8.1.0'
+    compile 'com.google.android.gms:play-services-identity:8.1.0'
+    compile 'com.google.android.gms:play-services-gcm:8.1.0'
+}

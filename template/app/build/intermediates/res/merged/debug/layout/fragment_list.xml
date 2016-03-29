@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:divider="@null"
+        style="@style/listStyle"
+        android:focusable="false"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/progressBarHolder"
+        layout="@layout/listview_loading"/>
+
+</LinearLayout><!-- From: file:/C:/Users/jus/Desktop/codecanyon-6512720-universal-full-multipurpose-android-app/template/app/src/main/res/layout/fragment_list.xml -->

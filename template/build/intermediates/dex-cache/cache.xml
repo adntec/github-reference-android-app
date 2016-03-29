@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-df659738561fb8df8e1fcfa5939f4d7c14378694.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-27afd02fd137699e89d28883a58bf140a847fe28.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-292c66fb82a6357fa7eeb5cd30d2fe495f719d6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-b10c644207fdb58aedeeb533a21242cf880c95ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-e8dd27e267ab422ef155b61acdc78e6aaad8d92d.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-f741670dca538f0763c86573dc9030125f3baa1a.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-6f28317f2a98bdcc992ad692410317c9773f39d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-b4483993ccf79760fada0890fcb80fe7b6453127.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-920b8c35ac0dd57be39e16684887c8d79cf56a07.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-491d5bcfa873407438c68aef3100afa25ecbfc62.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-5e03637488bfc3b1a3a4f738158280a75636ca1a.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-76e53f91139ccd9c317a64c51a1fc7214df299fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-e21415f7c327f9e33492e8c244e05985a4c989da.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-a0dd5118280d2ffea88f123086220d48c35b9c38.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-cf361aa779653c454c2e4687082ae2818495bcb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-dbeed1ffbd36136a4beb5c6f7c1612846b2b951c.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-8990caa415e4a14be4c80242fbd7278ee2d37506.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-352bae7973ce3431d0057e3aad33427d2db3baf1.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-d0b70a9c68815edbae25fe65c00972afdc9868da.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-b8ff6069d55cf3cf3f6862ea23f4adf2202541ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-1c2dd219fbbeaa7b113ba5eaa98dcd7bcad9a65d.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-f1e1a418ae61d465ba15fea3b23e7fae9e4d3d0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-61cd6ab78854a7fe620aa93c93ca2ae32d74b1ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-051bda02e85508c01328e907d53df0bcffe00640.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-67f521e8bf9ca6d9059617c5a9fda34008cdc7a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-ac4a32645d18dd921f508f5ae2ec8fd1d94c53b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-cc8fcdaa2b1988051a429b54a56bf3e842441bf8.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\all-fmmr\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="196e769290418549a77b4ade08f58b9a6f000d8c">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-11fb3d7736757dae7d956838eb478ba45a569f7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-7f906b03af0c9a1c2dcc384316801cd3bd312bd8.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\libs\jsoup-1.7.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ab1f22cadc2f8b514e55ba368f5128056fe304da">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\jsoup-1.7.3-097e3fa829f7ab0160683df3b62d47dca09fd193.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-4692a42beaa1084b0edb53e355cc6feff19a553b.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\classes-833d81e3c08f4a01621a300267dff70be9bd8fba.jar" />
+    </item>
+    <item
+        jar="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-7329ff2169939cb297d0e64d883fa36414e59e22.jar" />
+    </item>
+
+</items>

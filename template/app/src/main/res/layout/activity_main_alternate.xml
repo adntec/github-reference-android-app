@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_alignParentBottom="true"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:background="@color/btnGray"
+            ads:adUnitId="@string/ad_id"
+            ads:adSize="SMART_BANNER"/>
+
+        <include
+            android:id="@+id/toolbar_actionbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            layout="@layout/toolbar_default" />
+
+        <FrameLayout
+            android:id="@+id/container"
+            android:layout_below="@+id/toolbar_actionbar"
+            android:layout_above="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+
+    <com.envyserve.githubreference.util.ScrimInsetsFrameLayout
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/scrimInsetsFrameLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@color/white"
+        android:elevation="10dp"
+        android:fitsSystemWindows="true"
+        app:insetForeground="#4000" >
+
+            <fragment
+                android:id="@+id/fragment_drawer"
+                android:name="com.envyserve.githubreference.NavDrawerFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="start"
+                app:layout="@layout/drawer_fragment" />
+
+    </com.envyserve.githubreference.util.ScrimInsetsFrameLayout>
+
+</android.support.v4.widget.DrawerLayout>

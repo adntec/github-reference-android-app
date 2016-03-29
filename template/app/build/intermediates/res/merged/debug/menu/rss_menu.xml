@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:universal="http://schemas.android.com/apk/res-auto" >
+	
+	<item android:id="@+id/info"
+    	  universal:showAsAction="never"
+    	  android:title="@string/info"
+	      android:icon="@android:drawable/ic_menu_info_details"/>
+	
+    <item android:id="@+id/refresh_rss"
+    	  universal:showAsAction="ifRoom"
+    	  android:title="@string/refresh"
+	      android:icon="@drawable/ic_action_refresh"/>
+
+</menu>
+
+<!-- From: file:/C:/Users/jus/Desktop/codecanyon-6512720-universal-full-multipurpose-android-app/template/app/src/main/res/menu/rss_menu.xml -->

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+        
+    <!-- Toolbar -->
+    <!-- <dimen name="navigation_drawer_width">200dp</dimen>-->
+    <dimen name="toolbar_elevation">4dp</dimen>
+    
+    <!-- preferenceFragment -->
+    <dimen name="preference_fragment_padding_bottom">0dp</dimen>
+    <dimen name="preference_fragment_padding_side">16dp</dimen>
+    <integer name="preference_fragment_scrollbarStyle">0x02000000</integer>
+    
+    <!-- Defaults -->
+    <dimen name="activity_horizontal_margin">6dp</dimen>
+    <dimen name="activity_detail_horizontal_margin">18dp</dimen>
+    <dimen name="activity_vertical_margin">6dp</dimen>
+    <bool name="isTablet">false</bool>
+    <bool name="isWideTablet">false</bool>
+
+    <!-- DetailLayouts -->
+    <dimen name="detail_margin">0dp</dimen>
+    <dimen name="image_height_wordpress">250dp</dimen>
+    <dimen name="image_height_youtube">200dp</dimen>
+
+    <!-- Drawer -->
+    <dimen name="drawer_width">304dp</dimen>
+
+    <!-- SoundCloud playback view !-->
+    <dimen name="playback_view_height">100dp</dimen>
+    <dimen name="default_padding">8dp</dimen>
+
+    <!-- SoundCloud notification dimens !-->
+    <dimen name="simple_sound_cloud_notification_title">18sp</dimen>
+    <dimen name="simple_sound_cloud_notification_subtitle">14sp</dimen>
+    <dimen name="simple_sound_cloud_notification_icon">64dp</dimen>
+    <dimen name="simple_sound_cloud_notification_padding">8dp</dimen>
+
+</resources>

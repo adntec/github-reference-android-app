@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:universal="http://schemas.android.com/apk/res-auto" >
+	
+	<item android:id="@+id/clear"
+    	  universal:showAsAction="ifRoom"
+    	  android:title="@string/favorite_menu_delete"
+	      android:icon="@android:drawable/ic_menu_delete"/>
+
+</menu>
+
+<!-- From: file:/C:/Users/jus/Desktop/codecanyon-6512720-universal-full-multipurpose-android-app/template/app/src/main/res/menu/favorite_menu.xml -->

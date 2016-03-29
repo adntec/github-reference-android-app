@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jus/Desktop/codecanyon-6512720-universal-full-multipurpose-android-app/template/app/src/main/res/values-w800dp-land/dimens.xml -->
+    <eat-comment/>
+    <bool name="isTablet">true</bool>
+    <bool name="isWideTablet">true</bool>
+    <dimen name="detail_margin">128dp</dimen>
+</resources>

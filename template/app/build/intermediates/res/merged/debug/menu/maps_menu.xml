@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<item android:id="@+id/navigate"
+android:showAsAction="ifRoom"
+android:title="@string/navigate" />
+</menu>
+<!-- From: file:/C:/Users/jus/Desktop/codecanyon-6512720-universal-full-multipurpose-android-app/template/app/src/main/res/menu/maps_menu.xml -->

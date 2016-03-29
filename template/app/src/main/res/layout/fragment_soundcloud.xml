@@ -1,0 +1,29 @@
+<FrameLayout
+    android:id="@+id/activity_artist_main_container"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.envyserve.githubreference.MainActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:visibility="gone"
+        android:divider="@null" />
+
+    <include
+        android:id="@+id/progressBarHolder"
+        layout="@layout/listview_loading"/>
+
+    <com.envyserve.githubreference.soundcloud.ui.views.BottomRecyclerListView
+        android:id="@+id/activity_artist_playlist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:divider="@null"
+        android:overScrollMode="never"
+        android:scrollbars="none" />
+</FrameLayout>

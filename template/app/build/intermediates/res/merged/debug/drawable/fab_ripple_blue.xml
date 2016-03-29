@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:drawable="@drawable/fab_background_blue"></item>
+</selector><!-- From: file:/C:/Users/jus/Desktop/codecanyon-6512720-universal-full-multipurpose-android-app/template/app/src/main/res/drawable/fab_ripple_blue.xml -->

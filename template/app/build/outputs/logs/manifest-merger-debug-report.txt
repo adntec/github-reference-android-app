@@ -1,0 +1,653 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:2:1-122:12
+	package
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:7:5-8:47
+MERGED from [:all-fmmr:] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\all-fmmr\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appstate:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-cast:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:22.2.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-games:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-nearby:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-panorama:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-plus:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-vision:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:8:15-44
+		INJECTED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:12:5-78
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:13:5-66
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:15:5-80
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:16:22-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:21:5-97
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:21:22-95
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:24:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:26:5-74
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:26:22-72
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:28:5-71
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:28:22-69
+uses-permission#com.android.vending.BILLING
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:30:5-67
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:30:22-64
+uses-feature#0x00020000
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:32:5-34:34
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:23:5-25:33
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:23:5-25:33
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:23:5-25:33
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:23:5-25:33
+	android:glEsVersion
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:33:9-41
+	android:required
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:34:9-32
+application
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:36:5-120:19
+MERGED from [:all-fmmr:] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\all-fmmr\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appstate:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:22.2.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:39:9-41
+	android:allowBackup
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:40:9-35
+	android:icon
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:37:9-45
+	android:theme
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:38:9-40
+activity#com.envyserve.githubreference.MainActivity
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:42:9-50:21
+	android:label
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:45:13-45
+	android:theme
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:44:13-47
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:43:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:46:13-49:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:48:27-74
+activity#com.envyserve.githubreference.yt.player.YouTubePlayerActivity
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:51:10-54:86
+	android:screenOrientation
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:53:20-54
+	android:configChanges
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:52:20-81
+	android:theme
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:54:20-84
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:51:20-96
+activity#com.envyserve.githubreference.rss.ui.RssDetailActivity
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:55:10-56:68
+	android:configChanges
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:56:20-66
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:55:20-89
+activity#com.envyserve.githubreference.yt.ui.VideoDetailActivity
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:57:10-58:68
+	android:configChanges
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:58:20-66
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:57:20-90
+activity#com.envyserve.githubreference.wordpress.ui.WordpressDetailActivity
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:59:10-60:68
+	android:configChanges
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:60:20-66
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:59:20-101
+activity#com.envyserve.githubreference.tumblr.ui.TumblrPagerActivity
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:61:10-62:77
+	android:theme
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:62:20-73
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:61:20-94
+activity#com.envyserve.githubreference.web.WebviewActivity
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:63:10-64:68
+	android:configChanges
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:64:20-66
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:63:20-84
+activity#com.envyserve.githubreference.comments.CommentsActivity
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:65:10-66:68
+	android:configChanges
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:66:20-66
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:65:20-90
+activity#com.envyserve.githubreference.util.MediaActivity
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:67:10-68:68
+	android:configChanges
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:68:20-66
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:67:20-83
+activity#com.envyserve.githubreference.fav.FavRed
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:69:10-71:58
+	android:screenOrientation
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:71:20-56
+	android:noHistory
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:70:18-42
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:69:20-75
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:72:10-74:66
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:26:9-29:64
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:26:9-29:64
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:26:9-29:64
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:73:15-124
+	android:theme
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:74:15-63
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:72:20-72
+service#com.envyserve.githubreference.rss.RssService
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:77:10-80:38
+	android:enabled
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:80:14-36
+	android:permission
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:78:14-62
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:79:14-73
+service#com.envyserve.githubreference.media.MediaService
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:82:10-85:40
+	android:enabled
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:84:13-35
+	android:exported
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:85:13-37
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:83:13-76
+service#com.envyserve.githubreference.soundcloud.player.player.PlaybackService
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:87:9-89:40
+	android:exported
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:89:13-37
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:88:13-98
+receiver#com.envyserve.githubreference.rss.ServiceStarter
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:92:10-85
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:92:20-83
+receiver#com.envyserve.githubreference.rss.BootReceiver
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:93:10-99:20
+	android:enabled
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:95:20-43
+	android:permission
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:94:20-82
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:93:20-81
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:96:14-98:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:97:21-82
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:97:29-80
+receiver#com.envyserve.githubreference.soundcloud.player.player.PlayerReceiver
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:101:9-105:20
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:101:19-103
+intent-filter#android.media.AUDIO_BECOMING_NOISY
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:102:13-104:29
+action#android.media.AUDIO_BECOMING_NOISY
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:103:17-77
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:103:25-74
+receiver#com.envyserve.githubreference.soundcloud.player.media.MediaSessionReceiver
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:107:9-111:20
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:107:19-108
+intent-filter#android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:108:13-110:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:109:17-77
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:109:25-74
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:114:10-116:67
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:116:11-64
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:115:20-65
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:117:10-119:64
+	android:value
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:119:20-62
+	android:name
+		ADDED from C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\src\main\AndroidManifest.xml:118:20-69
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:30:9-31:52
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:30:9-31:52
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:30:9-31:52
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:30:19-91
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\AndroidManifest.xml:21:22-79
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\AndroidManifest.xml:42:11-82
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:8.1.0] C:\Users\jus\Desktop\codecanyon-6512720-universal-full-multipurpose-android-app\template\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\AndroidManifest.xml:22:22-71
